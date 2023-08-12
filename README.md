@@ -1,7 +1,7 @@
 <h1>Hi 👋 There</h1>
 
 <p>☺️ I am Mohammad Yavari</p>
-<p>🍀I'm so glad I learned Django</p>
+<p>🍀 I'm so glad I learned Django</p>
 <p>📚 I am currently a computer engineering student</p>
 <p>🤙 how to reach me : <a href="mailto:mmdyavarii@gmail.com">mmdyavarii@gmail.com</a></p>
 

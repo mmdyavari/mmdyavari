@@ -6,7 +6,7 @@
 <p>☺️ I am Mohammad Yavari</p>
 <p>🍀 I'm so glad I learned Django</p>
 <p>📚 I am currently a computer engineering student</p>
-<p>🤙 how to reach me : <a href="mailto:mmdyavarii@gmail.com">mmdyavarii@gmail.com</a></p>
+<p>🤙 how to reach me : <a href="mailto:mmdyavarri@gmail.com">mmdyavarii@gmail.com</a></p>
 
 <h2>Languages and tutorials:</h2>
 <div>

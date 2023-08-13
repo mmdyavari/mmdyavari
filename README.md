@@ -1,7 +1,7 @@
 <center>
     <h1>Hi 👋 There</h1>
 </center>
-<img width="100%" height="200" src="https://64.media.tumblr.com/tumblr_lnq14iCprj1qkd6mto1_500.gif" alt="">
+<img width="100%" height="200" src="[https://64.media.tumblr.com/tumblr_lnq14iCprj1qkd6mto1_500.gif](https://sothebys-md.brightspotcdn.com/dims4/default/8d5fbd9/2147483647/strip/true/crop/2000x1000+0+0/resize/385x193!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F53%2F8c%2Fe9a8b31f4a59b4ebac25efc9fa4c%2F2000x10001.gif)" alt="">
 
 <p>☺️ I am Mohammad Yavari</p>
 <p>🍀 I'm so glad I learned Django</p>

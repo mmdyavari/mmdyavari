@@ -1,7 +1,7 @@
 <center>
     <h1>Hi 👋 There</h1>
 </center>
-<img width="100%" height="200" src="https://i.pinimg.com/originals/b8/02/72/b8027272774cf4a075e1112e4aec20b3.gif" alt="">
+<img width="100%" height="250" src="https://i.pinimg.com/originals/b8/02/72/b8027272774cf4a075e1112e4aec20b3.gif" alt="">
 
 <p>☺️ I am Mohammad Yavari</p>
 <p>🍀 I'm so glad I learned Django</p>
